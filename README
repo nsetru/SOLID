@@ -1,0 +1,19 @@
+S.O.L.I.D
+
+S -> Singular Reponsibility Principle
+O -> Open Close Principle
+L -> Liskov's Substitution principle
+I -> Interface Segregation Principle
+D -> Dependency Inversion Principle
+
+S -> Singular Reponsibility Principle
+
+A Class should have only one job
+
+O -> Open Close Principle
+
+Class/Objects are open for extension but closed for substitution
+
+L -> Liskov's Substitution principle
+
+
